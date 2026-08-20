@@ -1,0 +1,73 @@
+{
+  FTitleColor = white;
+  FrameBorderColor = "#000000";
+  MenuDisabledColor = gray60;
+  IconTitleBack = "#20202e";
+  PixmapPath = (
+    "/home/maxx/GNUstep/Library/WindowMaker/Pixmaps",
+    "/home/maxx/GNUstep/Library/WindowMaker/Backgrounds",
+    "/home/maxx/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "~/pixmaps",
+    "/usr/share/WindowMaker/Pixmaps",
+    "/usr/share/WindowMaker/Backgrounds",
+    "/usr/share/pixmaps"
+  );
+  HotCornerEdge = 2;
+  FTitleBack = (hgradient, "rgb:30/32/3e", black);
+  DragMaximizedWindow = RestoreGeometry;
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  DoNotMakeAppIconsBounce = YES;
+  IconTitleFont = "Arial,sans serif:pixelsize=9";
+  OpaqueResize = YES;
+  MenuTextBack = (hgradient, "rgb:50/5a/5e", "rgb:20/2a/2e");
+  LargeDisplayFont = "Trebuchet MS,sans serif:pixelsize=24";
+  WindowPlacement = center;
+  HotCornerDelay = 250;
+  CenterKey = None;
+  IconTitleColor = white;
+  TitleJustify = center;
+  MenuTextColor = white;
+  IconBack = (mdgradient, gray40, "rgb:50/5a/5e", "rgb:30/32/3e", "rgb:20/2a/2e");
+  MenuTitleColor = white;
+  AntialiasedText = YES;
+  MenuTitleFont = "Trebuchet MS,sans serif:bold:pixelsize=12";
+  HotCorners = NO;
+  MoveTo6to12Head = None;
+  SmoothWorkspaceBack = YES;
+  DbClickFullScreen = NO;
+  IconPosition = trh;
+  AlignSubmenus = YES;
+  MenuTextFont = "Trebuchet MS,sans serif:pixelsize=12";
+  NoWindowOverDock = YES;
+  HighlightTextColor = black;
+  MenuTitleBack = (hgradient, "rgb:30/32/3e", black);
+  EnforceIconMargin = NO;
+  ClipTitleColor = white;
+  MoveTo12to6Head = None;
+  HotCornerActions = (None, None, None, None);
+  HighlightColor = white;
+  FrameFocusedBorderColor = "#000000";
+  WindowTitleFont = "Trebuchet MS,sans serif:bold:pixelsize=12";
+  DisableDrawers = YES;
+  CClipTitleColor = gray60;
+  ResizebarBack = (solid, "rgb:a0/a2/ae");
+  MenuStyle = normal;
+  IconPath = (
+    "/home/maxx/GNUstep/Library/Icons",
+    "/home/maxx/GNUstep/Library/WindowMaker/Pixmaps",
+    "/home/maxx/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "~/pixmaps",
+    "/usr/share/WindowMaker/Icons",
+    "/usr/share/WindowMaker/Pixmaps",
+    "/usr/share/pixmaps"
+  );
+  PTitleBack = (hgradient, "rgb:70/72/7e", "rgb:45/47/4e");
+  SaveSessionOnExit = YES;
+  UTitleColor = gray20;
+  BounceAppIconsWhenUrgent = NO;
+  UTitleBack = (hgradient, "rgb:a0/a2/ae", "rgb:90/92/9e");
+  PTitleColor = white;
+  CloseRootMenuByLeftOrRightMouseClick = NO;
+  ResizeDisplay = floating;
+  FrameSelectedBorderColor = "#ffffff";
+}
