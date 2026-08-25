@@ -16,4 +16,6 @@ wireplumber &
 pipewire-pulse &
 picom --backend xrender &
 polybar &
-xwallpaper --stretch ~/.config/bspwm/cyn.png &
+xwallpaper --stretch ~/.config/bspwm/cynn.png &
+xset -dpms &
+xset s off &
