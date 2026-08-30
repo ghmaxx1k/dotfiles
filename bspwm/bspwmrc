@@ -9,6 +9,10 @@ bspc config focus_follows_pointer	true
 bspc config focused_border_color	"#FFFFFF"
 bspc config normal_border_color		"#858585"
 
+pkill pipewire &
+pkill wireplumber &
+pkill pipewire_pulse &
+sleep 1
 sxhkd &
 setxkbmap it &
 pipewire &
@@ -16,6 +20,6 @@ wireplumber &
 pipewire-pulse &
 picom --backend xrender &
 polybar &
-xwallpaper --stretch ~/.config/bspwm/cynn.png &
+xwallpaper --stretch ~/.config/bspwm/ptwl.jpg &
 xset -dpms &
 xset s off &
